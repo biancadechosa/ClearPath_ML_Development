@@ -157,6 +157,9 @@ celerybeat-schedule
 venv*/
 ENV*/
 
+ml_venv
+dataset
+
 # Spyder project settings
 .spyderproject
 .spyproject
