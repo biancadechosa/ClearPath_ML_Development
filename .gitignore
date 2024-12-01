@@ -159,6 +159,7 @@ ENV*/
 
 ml_venv
 dataset
+evaluation
 
 # Spyder project settings
 .spyderproject
