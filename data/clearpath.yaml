@@ -1,6 +1,6 @@
 train: ../dataset/Images/train_preprocessed
 val: ../dataset/Images/val_preprocessed
-test: ../evaluation
+test: ../evaluation/JPEGImages
 
 nc: 21  # Number of classes, should be updated based on your combined dataset
 
